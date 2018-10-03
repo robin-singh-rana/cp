@@ -2,7 +2,7 @@
 using namespace std;
 bool bintrue(int x)
 {
-	
+	//why this code isempty
 }
 int main()
 {
