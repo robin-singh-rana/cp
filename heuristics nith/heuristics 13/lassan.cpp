@@ -1,3 +1,4 @@
+//mota hi code nageeen bhai...
 #include<iostream>
 using namespace std;
 
